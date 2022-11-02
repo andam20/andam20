@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Andam Adam</h1>
 <h3 align="center">A junior BackEnd developer from Kurdistan</h3>
 
-<p align="center"><img align="center" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<p align="center"><img align="center" style="border-radius:50%" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 <br>
 <p align="center"> <img  width="300" src="https://komarev.com/ghpvc/?username=andam20&label=Profile%20views&color=0e75b6&style=flat" alt="andam20" /> </p>
 <br>
