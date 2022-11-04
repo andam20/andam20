@@ -7,12 +7,22 @@
   <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
 </h1>
 <br>
-<p align="center"> 
- <h1 align="center"> Andam's Profile Visitors</h1>
- <p align="center"> 
-  <img align="center" src="https://profile-counter.glitch.me/andam20/count.svg" />
+
+
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
+
+<br/>
+<p align="left">
+  <a href="https://dreadsec.me/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andam20&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andam20&theme=gruvbox&hide_border=true">		  
+  </a>
 </p>
-</p>
+<br>
+
+[![Andam's Activity Graph](https://activity-graph.herokuapp.com/graph?username=andam20&custom_title=Dread's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
+<p align="center"><img src="https://profile-counter.glitch.me/{andam20}/count.svg"></p>
+
 <br>
 
 <h1 align="center"> GitHub Profile Trophy</h1>
