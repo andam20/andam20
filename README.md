@@ -22,12 +22,13 @@
 
 - 📫 How to reach me **AndamAdamXdr@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
 <a href="https://twitter.com/@adamkhidhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adamkhidhir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andam adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andam adam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/andam adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andam adam" height="30" width="40" /></a>
-<a href="https://fb.com/andam adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andam adam" height="30" width="40" /></a>
+<a href="https://fb.com/andam adam" target="blank"><img align="center" src="https://icons8.com/icon/7G8SbVTEKWQq/facebook" alt="andam adam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
