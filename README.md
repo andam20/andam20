@@ -3,7 +3,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=El+Messiri&size=25&pause=1000&background=C0C9FF00&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Andam+Adam;Software+Engineer;BackEnd+Developer" alt="Typing SVG" /></a>
 </p>
-<p align="center"><img align="center" style="border-radius:50%" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+<h1 align="center">
+  <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
+</h1>
 <br>
 <p align="center"> 
  <h1 align="center"> Andam's Profile Visitors</h1>
