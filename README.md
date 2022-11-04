@@ -55,6 +55,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andam20&show_icons=true&locale=en&layout=compact" alt="andam20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andam20&show_icons=true&locale=en" alt="andam20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andam20&" alt="andam20" /></p>
+ 
+ 
