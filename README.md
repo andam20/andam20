@@ -1,7 +1,10 @@
  
-<h1 align="center">Hi 👋, I'm Andam Adam</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Andam Adam</h1>
 <h3 align="center">A junior BackEnd developer from Kurdistan</h3>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=El+Messiri&size=25&pause=1000&background=C0C9FF00&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Andam+Adam;Software+Engineer;BackEnd+Developer" alt="Typing SVG" /></a>
+</p>
 <p align="center"><img align="center" style="border-radius:50%" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 <br>
 <p align="center"> 
