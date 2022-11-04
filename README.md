@@ -25,10 +25,9 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://twitter.com/@adamkhidhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@adamkhidhir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andam adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andam adam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/andam adam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andam adam" height="30" width="40" /></a>
-<a href="https://fb.com/andam adam" target="blank"><img align="center" src="https://icons8.com/icon/7G8SbVTEKWQq/facebook" alt="andam adam" height="30" width="40" /></a>
+<a href="https://twitter.com/@adamkhidhir" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/twitter-circled.png" alt="@adamkhidhir" height="50" width="50" /></a>&#8287;&#8287;
+<a href="https://linkedin.com/in/andam adam" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png" alt="andam adam" height="50" width="50" /></a>&#8287;&#8287;
+<a href="https://fb.com/andam adam" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/facebook-circled.png" alt="andam adam" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
