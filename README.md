@@ -6,7 +6,7 @@
 <br>
 <p align="center"> 
  Andam's Profile Visitors<br><br>
-  <img src="https://profile-counter.glitch.me/joseph625/count.svg" />
+  <img src="https://profile-counter.glitch.me/andam20/count.svg" />
 </p>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andam20" alt="andam20" /></a> </p>
