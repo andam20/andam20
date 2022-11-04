@@ -55,13 +55,6 @@
 <p align="center"> 
  <img alt="GitHub followers" src="https://img.shields.io/github/followers/andam20?label=Andam%27s%20Followers&style=social">  
 </p>
- 
-<br>
-<h1 align="center">🔥 Streak stats</h1>
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="joseph's streak" src="https://streak-stats.demolab.com?user=andam20&theme=dark&hide_border=true"/>
-</p>
 
 <br>
 
@@ -73,5 +66,3 @@
 <h1 align="center">Most Used Languages </h1>
 <p align="center"><img style="width:50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andam20&show_icons=true&locale=en&layout=compact&theme=react&layout=compact" alt="andam20" /></p>
 
- 
- [![Andam's github activity](https://activity-graph.herokuapp.com/graph?username=andam20&custom_title=Andam's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/joseph625/github-readme-activity-graph)
