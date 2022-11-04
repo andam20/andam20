@@ -16,18 +16,15 @@
 <br>
 <p align="left"> <a href="https://twitter.com/@adamkhidhir" target="blank"><img src="https://img.shields.io/twitter/follow/@adamkhidhir?logo=twitter&style=for-the-badge" alt="@adamkhidhir" /></a> </p>
 
-- 🌱 I’m currently learning **laravel**
-
-- 👨‍💻 All of my projects are available at [https://andam20.github.io/resume/](https://andam20.github.io/resume/)
-
-- 📫 How to reach me **AndamAdamXdr@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-
+<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://twitter.com/@adamkhidhir" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/twitter-circled.png" alt="@adamkhidhir" height="50" width="50" /></a>&#8287;&#8287;
 <a href="https://linkedin.com/in/andam adam" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png" alt="andam adam" height="50" width="50" /></a>&#8287;&#8287;
 <a href="https://fb.com/andam adam" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/facebook-circled.png" alt="andam adam" height="50" width="50" /></a>
+</p>
+
+<p align="center"> 
+ <img alt="GitHub followers" src="https://img.shields.io/github/followers/andam20?label=Andam%27s%20Followers&style=social">  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
