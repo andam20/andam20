@@ -4,8 +4,10 @@
 
 <p align="center"><img align="center" style="border-radius:50%" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 <br>
-
-<p align="center"> <img  width="300" src="https://profile-counter.glitch.me/joseph625/count.svg" alt="andam20" /> </p>
+<p align="center"> 
+ Andam's Profile Visitors<br><br>
+  <img src="https://profile-counter.glitch.me/joseph625/count.svg" />
+</p>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andam20" alt="andam20" /></a> </p>
 <br>
