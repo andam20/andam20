@@ -59,7 +59,7 @@
 <br>
 
 <h1 align="center">Most Used Languages </h1>
-<p align="center"><img style="width:50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andam20&show_icons=true&locale=en&layout=compact&theme=react" alt="andam20" /></p>
+<p align="center"><img style="width:50%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andam20&show_icons=true&locale=en&layout=compact&theme=react&layout=compact" alt="andam20" /></p>
 
  
  [![Andam's github activity](https://activity-graph.herokuapp.com/graph?username=andam20&custom_title=Andam's%20activity%20graph&theme=react-dark&hide_border=true)](https://github.com/joseph625/github-readme-activity-graph)
