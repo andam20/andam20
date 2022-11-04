@@ -12,9 +12,25 @@
   <img src="https://profile-counter.glitch.me/andam20/count.svg" />
 </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andam20" alt="andam20" /></a> </p>
+
+<h1 align="center"> GitHub Profile Trophy</h1>
+ </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/andam20/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/andam20/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/andam20/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/andam20/github-profile-trophy"/> 
+  </a>
+</p>
 <br>
-<p align="left"> <a href="https://twitter.com/@adamkhidhir" target="blank"><img src="https://img.shields.io/twitter/follow/@adamkhidhir?logo=twitter&style=for-the-badge" alt="@adamkhidhir" /></a> </p>
+
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
