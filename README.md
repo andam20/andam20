@@ -4,7 +4,8 @@
 
 <p align="center"><img align="center" style="border-radius:50%" alt="Coding" width="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 <br>
-<p align="center"> <img  width="300" src="https://komarev.com/ghpvc/?username=andam20&label=Andam's%20Profile%20viewers&color=lightgrey&style=plastic" alt="andam20" /> </p>
+
+<p align="center"> <img  width="300" src="https://profile-counter.glitch.me/joseph625/count.svg/?username=andam20&label=Andam's%20Profile%20viewers&color=lightgrey&style=plastic" alt="andam20" /> </p>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andam20" alt="andam20" /></a> </p>
 <br>
