@@ -44,7 +44,7 @@
 <br>
 
 
-<h1 align="center">Connect with me:</h1>
+<h1 align="center">Connect with me:-</h1>
 <p align="center">
 <a href="https://twitter.com/@adamkhidhir" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/twitter-circled.png" alt="@adamkhidhir" height="50" width="50" /></a>&#8287;&#8287;
 <a href="https://linkedin.com/in/andam adam" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png" alt="andam adam" height="50" width="50" /></a>&#8287;&#8287;
