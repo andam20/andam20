@@ -13,10 +13,8 @@
 
 <br/>
 <p align="left">
-  <a href="https://dreadsec.me/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=andam20&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=andam20&theme=gruvbox&hide_border=true">		  
-  </a>
 </p>
 <br>
 
