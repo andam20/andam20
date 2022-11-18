@@ -21,7 +21,7 @@
 <br>
 
 [![Andam's Activity Graph](https://activity-graph.herokuapp.com/graph?username=andam20&custom_title=Dread's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://dreadsec.me)
-<p align="center"><img src="https://profile-counter.glitch.me/{D7EAD}/count.svg"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{andam20}/count.svg"></p>
 
 <br>
 
